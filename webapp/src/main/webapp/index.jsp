@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter Cell Phone</b></label>
     <input type="text" placeholder="Enter cell phone number" name="mobile" id="mobile" required>
     <br>
 
@@ -20,7 +20,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Enter Password Again</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
